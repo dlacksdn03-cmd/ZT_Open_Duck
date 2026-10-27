@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 측정 결과 (실행할 때마다 생성)
+logs/
+step_response.csv
+step_response.png
+*.csv
+
+# 에디터 / 도구
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# 개인 작업 메모
+handoff_prompt.md

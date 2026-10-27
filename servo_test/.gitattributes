@@ -1,0 +1,5 @@
+# 줄바꿈: 셸 스크립트는 LF여야 macOS/Linux에서 실행되고, 배치 파일은 CRLF여야 Windows에서 안전하다
+* text=auto
+*.sh  text eol=lf
+*.bat text eol=crlf
+*.py  text eol=lf

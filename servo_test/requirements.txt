@@ -1,0 +1,5 @@
+# Python 3.9 이상
+# feetech-servo-sdk는 버전마다 API가 달라서 1.0.0으로 고정 (sts_compat.py가 이 버전 기준)
+feetech-servo-sdk==1.0.0
+pyserial>=3.5
+matplotlib>=3.5
